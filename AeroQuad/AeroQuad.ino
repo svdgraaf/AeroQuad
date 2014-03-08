@@ -182,7 +182,7 @@
 
   // Gyroscope declaration
   #define ITG3200_ADDRESS_ALTERNATE
-  #include <Gyroscope_ITG3200_9DOF.h>
+  #include <Gyroscope_ITG3200.h>
 
   // Accelerometer declaration
   #include <Accelerometer_ADXL345_9DOF.h>
